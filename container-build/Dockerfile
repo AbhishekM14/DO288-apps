@@ -1,4 +1,5 @@
 # Use the redhattraining/httpd-parent image as base
+# New 
 FROM quay.io/redhattraining/httpd-parent
 
 # Change the port to 8080
